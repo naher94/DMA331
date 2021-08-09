@@ -13,7 +13,7 @@ footer{
     height: 2px;
     background-color: semantic-color(visual-divider);
     border-radius: $pill-radius;
-    max-width: 500px;
+    max-width: 400px;
     margin: auto;
     margin-block-end: 3rem;
     @include breakpoint(small only) {
