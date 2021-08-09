@@ -29,10 +29,11 @@ footer{
         }
       }
       path{
-        fill:$pure-black; //Changes the color of my logo inline
+        fill: semantic-color(logo);
       }
     }
   }
+
   font-family: $montserrat;
   .content-area{
     p{
@@ -51,7 +52,7 @@ footer{
   padding-left: 0.5em;
   padding-right: 0.5em;
   font-size: 1.5em;
-  color: $pure-black;
+  color: semantic-color(social-icons);
   @include breakpoint(small only) {
     font-size: 3em;
     padding-left: 0.25rem;
@@ -61,23 +62,6 @@ footer{
     color: $wm-purple;
     .fab, .fas{
       animation: boing 300ms ease-out;
-    }
-  }
-}
-
-.logo-footer-container{
-  text-align: right;
-  .logo-footer{
-    #rehan-logo-footer{
-      height: 3rem;
-      margin-top: 0.5rem;
-      transition: $sprint;
-      &:hover{
-        transform: scale(1.1);
-      }
-      g{
-        fill: semantic-color(footer-logo);
-      }
     }
   }
 }

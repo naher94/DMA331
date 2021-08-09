@@ -16,10 +16,7 @@ header{
       }
     }
     path{
-      fill:$pure-black; //Changes the color of my logo inline
-      @media (prefers-color-scheme: dark) {
-        fill: $pure-white;
-      }
+      fill: semantic-color(logo); //Changes the color of my logo inline
     }
   }
 }
