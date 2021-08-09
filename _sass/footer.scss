@@ -54,6 +54,9 @@ footer{
       padding: 0;
       line-height: 1.1;
     }
+    a{
+      color: semantic-color(text);
+    }
     .footer-heading{
       font-weight: $montserrat-bold;
     }
