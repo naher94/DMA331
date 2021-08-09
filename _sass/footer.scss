@@ -16,8 +16,21 @@ footer{
     max-width: 500px;
     margin: auto;
     margin-block-end: 3rem;
+    @include breakpoint(small only) {
+      max-width: 200px;
+    }
   }
-
+  .left-section{
+    @include breakpoint(small only) {
+      justify-content: center;
+    }
+  }
+  .right-section{
+    @include breakpoint(small only) {
+      margin-block-start: 2rem;
+      text-align: center;
+    }
+  }
   .logo{
     #wm-logo-footer{
       height: 30px;
@@ -43,6 +56,9 @@ footer{
     }
     .footer-heading{
       font-weight: $montserrat-bold;
+    }
+    @include breakpoint(small only) {
+      text-align: center;
     }
   }
 
