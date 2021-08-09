@@ -77,7 +77,10 @@ iframe { //this should probs be aspect ratio // TODO Gissue #385
 
 .schedule{
   .class-item{
-    margin-block-end: 2rem;
+    margin-block-end: 6rem;
+    @include breakpoint(small only){
+      margin-block-end: 3rem;
+    }
     .date{
       margin-inline-end: 5rem;
       font-family: $montserrat;
@@ -122,6 +125,30 @@ iframe { //this should probs be aspect ratio // TODO Gissue #385
         margin: 0;
         padding: 0;
       }
+    }
+  }
+}
+
+.assignment{
+  margin-block-start: 1rem;
+  font-family: $montserrat;
+  font-weight: $montserrat-bold;
+  font-size: 2rem;
+  .label-header{
+    margin-inline-end: 5rem;
+    @include breakpoint(small only) {
+      margin-inline-end: 1rem;
+      font-size: 1rem;
+    }
+  }
+  .content{
+    color: semantic-color(text);
+    @include breakpoint(small only){
+      font-size: 1.5rem;
+    }
+    a{
+      color: semantic-color(text);
+      @include swipe-underline(semantic-color(title-underline),true);
     }
   }
 }

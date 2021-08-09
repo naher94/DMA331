@@ -1,6 +1,7 @@
 ---
 layout: post
 title: UX Audit
+date: 2021-09-16
 ---
 
 Document in Figma a UX audit of the following:

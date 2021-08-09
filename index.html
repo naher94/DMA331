@@ -21,6 +21,23 @@ layout: default
         <h3> <a href="{{post.url}}">{{ post.title }} <i class="fas fa-arrow-right"></i> </a> </h3>
       <p>{{ post.content | strip_html | strip_newlines | truncate: 160 }}</p>
       </div>
+    
+      {% for assignment in site.assignments %}
+        {% if assignment.date == post.date %}
+        <div class="grid-x cell assignment">
+          <div class="cell small-1 label-header">
+            <span>Due</span>
+          </div>
+          <div class="content cell auto">          
+            <a href="{{assignment.url}}">
+              {{assignment.title}} <i class="fas fa-arrow-right"></i>
+            </a>
+          </div>
+       </div>
+        {% endif %}
+      {% endfor %}
+
+
     </div>
   {% endfor %}
 </section>
