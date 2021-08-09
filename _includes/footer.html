@@ -1,18 +1,20 @@
 <footer class="grid-container">
-  <div class="grid-x">
+  <div class="visual-divider"></div>
+  <div class="grid-x align-middle">
 
-    <div class="cell">
-      <a class="logo" href="{{ site.baseurl }}/">
+    <div class="cell grid-x align-middle auto">
+      <a class="logo cell shrink" href="{{ site.baseurl }}/">
         {% capture location %}footer{% endcapture %}
         {% include wm-logo.svg %}
       </a>
-
-      <p class="footer-heading">{{ site.title }}</p>
-      <!-- text -->
+      <div class="content-area cell shrink">
+        <p class="footer-heading">{{ site.title }}</p>
+        <p>Duquesne University</p>
+      </div>
     </div>
 
-    <div class="cell">
-      <!-- slack logo -->
+    <div class="cell shrink">
+      <a href="#" class="social"><i class="fab fa-slack"></i></a>
     </div>
 
   </div>

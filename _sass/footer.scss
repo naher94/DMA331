@@ -1,17 +1,26 @@
 //******* Footer Styling
 footer{
-  margin-top: 2rem;
+  margin-block-start: 4rem;
   color: semantic-color(text);
-  padding-bottom: 2rem;
+  padding-block-end: 2rem;
 
   @include breakpoint(small only) {
     margin-top: 0.5em;
     padding-bottom: 4rem;
   }
 
+  .visual-divider{
+    height: 2px;
+    background-color: #dadada;
+    border-radius: $pill-radius;
+    max-width: 500px;
+    margin: auto;
+    margin-block-end: 3rem;
+  }
+
   .logo{
     #wm-logo-footer{
-      height: 50px;
+      height: 30px;
       transition: $sprint;
       &:hover{
         animation: boing 300ms ease-out;
@@ -24,19 +33,32 @@ footer{
       }
     }
   }
+  font-family: $montserrat;
+  .content-area{
+    p{
+      margin: 0;
+      padding: 0;
+      line-height: 1.1;
+    }
+    .footer-heading{
+      font-weight: $montserrat-bold;
+    }
+  }
+
 }
 
 .social {
   padding-left: 0.5em;
   padding-right: 0.5em;
-  font-size: 2em;
-  color: inherit;
+  font-size: 1.5em;
+  color: $pure-black;
   @include breakpoint(small only) {
     font-size: 3em;
     padding-left: 0.25rem;
     padding-right: 0.25rem;
   }
   &:hover, &:focus{
+    color: $wm-purple;
     .fab, .fas{
       animation: boing 300ms ease-out;
     }

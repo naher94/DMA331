@@ -17,18 +17,17 @@ body {
 }
 
 h1, h2, h3, h4 {
-  font-family: $zilla;
+  font-family: $montserrat;
 }
 
 h1{
   font-size: 3em;
   line-height: 0.9em;
-  font-weight: $zilla-bold;
+  font-weight: $montserrat-bold;
 }
 
 h2{
   font-size: 3.5em;
-  font-weight: $zilla-medium;
   @include breakpoint(small only) {
     padding-left: 0.5rem;
     padding-right: 0.5rem;
@@ -37,6 +36,7 @@ h2{
 
 h3{
   font-size: 2.5em;
+  font-weight: $montserrat-medium;
 }
 h4{
   font-size: 1.5em;
@@ -84,9 +84,6 @@ p{
 }
 
 
-
-
-
 p, li{
   a {
     @include link-expand();
@@ -100,11 +97,11 @@ p, li{
   background: linear-gradient($color, $color);
   background-position: 0% 100%;
   background-repeat: no-repeat;
-  background-size: 0% 10px; 
+  background-size: 0% 20px; 
   transition: background-size .3s;
   @if $inline-hover {
     &:hover{
-      background-size: 100% 10px;
+      background-size: 100% 20px;
     }
   }
 }
@@ -112,10 +109,10 @@ p, li{
 //// Use when you want to trigger the hover from a different element
 @mixin swipe-underline-hover($is-important) {
   @if $is-important {
-    background-size: 100% 10px !important;
+    background-size: 100% 20px !important;
   }
   @else{
-    background-size: 100% 10px;
+    background-size: 100% 20px;
   }
 }
 
