@@ -53,6 +53,10 @@ p{
   }
 }
 
+.section-heading{
+  font-size: 2rem;
+}
+
 //******* A Tag Underline Expand Styling
 @mixin link-expand {
   position: relative;

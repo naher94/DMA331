@@ -2,9 +2,15 @@
 layout: default
 ---
 
+<section class="intro cell grid-x">
+  <h2 class="section-heading">Course Description</h2>
+  <p> {{ site.description }} </p>
+</section>
+
+
 <section class="schedule cell grid-x">
 
-  <h2 class="page-heading">Schedule</h2>
+  <h2 class="section-heading">Schedule</h2>
   {% for post in site.classes %}
     <div class="class-item cell grid-x">
       <div class="date cell shrink">

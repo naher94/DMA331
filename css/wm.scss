@@ -67,7 +67,13 @@ iframe { //this should probs be aspect ratio // TODO Gissue #385
   }
 }
 
-
+.intro{
+  p{
+    padding-left: 0;
+    padding-right: 0;
+    margin-top: 0;
+  }
+}
 
 .schedule{
   .class-item{
