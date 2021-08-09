@@ -53,6 +53,10 @@ p{
   }
 }
 
+a{
+  color: semantic-color(link);
+}
+
 .section-heading{
   font-size: 2rem;
 }
