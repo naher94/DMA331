@@ -120,10 +120,18 @@ iframe { //this should probs be aspect ratio // TODO Gissue #385
 }
 
 .schedule{
+  @include breakpoint(small only){
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    .section-heading{
+      padding-left: 0;
+      padding-right: 0;
+    }
+  }
   .class-item{
     margin-block-end: 6rem;
     @include breakpoint(small only){
-      margin-block-end: 3rem;
+      margin-block-end: 4rem;
     }
     .date{
       margin-inline-end: 5rem;
@@ -137,12 +145,15 @@ iframe { //this should probs be aspect ratio // TODO Gissue #385
         font-size: 3rem;
         margin-block-start: -1rem;
         @include breakpoint(small only) {
-          font-size: 2rem;
+          // font-size: 2rem;
           margin-block-start: -1rem;
         }
       }
     }
     .content{
+      @include breakpoint(small only){
+        margin-block-start: -1.5rem;
+      }
       h3{
         font-size: 3rem;
         margin-block-start: 1rem;
@@ -182,10 +193,10 @@ iframe { //this should probs be aspect ratio // TODO Gissue #385
     margin-inline-end: 5rem;
     @include breakpoint(small only) {
       margin-inline-end: 1rem;
-      font-size: 1rem;
+      font-size: 1.5rem;
     }
   }
-  .content{
+  .assignment-content{
     color: semantic-color(text);
     @include breakpoint(small only){
       font-size: 1.5rem;

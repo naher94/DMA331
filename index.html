@@ -36,11 +36,11 @@ layout: default
   <h2 class="section-heading">Schedule</h2>
   {% for post in site.classes %}
     <div class="class-item cell grid-x">
-      <div class="date cell small-1">
+      <div class="date cell medium-1">
         <span class="month">{{ post.date | date: "%b" }}</span>
         <span class="day">{{ post.date | date: "%d" }}</span>
       </div>
-      <div class="content cell auto">
+      <div class="content cell medium-auto">
         {% if post.more == false %}
         <h3>{{ post.title }}</h3>
         {% else %}
@@ -51,11 +51,11 @@ layout: default
     
       {% for assignment in site.assignments %}
         {% if assignment.date == post.date %}
-        <div class="grid-x cell assignment">
-          <div class="cell small-1 label-header">
+        <div class="grid-x cell small-12 assignment">
+          <div class="cell medium-1 label-header">
             <span>Due</span>
           </div>
-          <div class="content cell auto">          
+          <div class="assignment-content cell medium-auto">          
             <a href="{{assignment.url}}">
               {{assignment.title}} <i class="fas fa-arrow-right"></i>
             </a>
