@@ -11,7 +11,7 @@ footer{
 
   .visual-divider{
     height: 2px;
-    background-color: #dadada;
+    background-color: semantic-color(visual-divider);
     border-radius: $pill-radius;
     max-width: 500px;
     margin: auto;

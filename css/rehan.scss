@@ -75,17 +75,28 @@ iframe { //this should probs be aspect ratio // TODO Gissue #385
     .date{
       margin-inline-end: 5rem;
       font-family: $montserrat;
+      @include breakpoint(small only) {
+        margin-inline-end: 1rem;
+      }
       .day{
         font-weight: $montserrat-bold;
         display: block;
         font-size: 3rem;
         margin-block-start: -1rem;
+        @include breakpoint(small only) {
+          font-size: 2rem;
+          margin-block-start: -1rem;
+        }
       }
     }
     .content{
       h3{
         font-size: 3rem;
         margin-block-start: 1rem;
+        @include breakpoint(small only) {
+          font-size: 2rem;
+          line-height: 1.1;
+        }
         a{
           @include swipe-underline(semantic-color(title-underline),true);
           text-decoration: none;
