@@ -1,0 +1,129 @@
+---
+  # Front matter comment to ensure Jekyll properly reads file.
+---
+@charset "utf-8";
+@import 'app';
+@import 'monokai.css';
+@import 'variables';
+@import 'design-system';
+@import 'header';
+@import 'footer';
+@import '404';
+
+
+.no-select{
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  user-drag: none;
+  -webkit-user-drag: none;
+}
+
+// Visually hide any element (mostly text) accessibly.
+.visually-hidden{
+  clip: rect(0 0 0 0);
+  clip-path: inset(100%);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+}
+
+img {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  user-drag: none;
+  -webkit-user-drag: none;
+  @media (prefers-color-scheme: dark) {
+    filter: brightness(0.8);
+  }
+}
+
+.image-center {
+  margin: 0 auto;
+  display: block;
+}
+
+iframe { //this should probs be aspect ratio // TODO Gissue #385
+  height: 600px;
+  @include breakpoint(small only) {
+    height: 220px;
+  }
+}
+
+.highlight{
+  pre{
+    padding: 2rem;
+    border-radius: 20px;
+    code{
+      border: none;
+      color: $pure-white;
+      background-color: transparent;
+    }
+  }
+}
+
+
+
+.schedule{
+  .class-item{
+    margin-block-end: 2rem;
+    .date{
+      margin-inline-end: 5rem;
+      .day{
+        font-weight: $lato-black;
+        display: block;
+        font-size: 3rem;
+        margin-block-start: -1rem;
+      }
+    }
+    .content{
+      h3{
+        font-size: 3rem;
+        margin-block-start: 1rem;
+        a{
+          @include swipe-underline($wm-purple,true);
+          text-decoration: none;
+          color: semantic-color(text);
+        }
+      }
+      p{
+        margin: 0;
+        padding: 0;
+      }
+    }
+  }
+}
+
+article{
+  padding-left: 2rem;
+  padding-right: 2rem;
+  .post-meta{
+    color: semantic-color(text);
+    padding: 0;
+    margin: 0;
+  }
+  .post-content{
+    p{
+      padding-left: 0;
+      padding-right: 0;
+    }
+  }
+}
+
+
+
+
+//******* Mobile Styling
+@include breakpoint(small only) {
+
+  .nav{
+    padding: 10px;
+    font-size: 16px;
+  }
+}
+//******* End of Mobile Styling

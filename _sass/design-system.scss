@@ -87,7 +87,7 @@ p{
 
 
 
-p, li, h3{
+p, li{
   a {
     @include link-expand();
   }
