@@ -18,6 +18,8 @@ markdown: kramdown
 sass:
   style: compressed
 
+future: true
+
 collections:
   assignments:
     output: true
