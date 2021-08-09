@@ -52,6 +52,7 @@ $semantic-colors:(
     social-icons: $pure-black,
     title-underline: $wm-purple-l5,
     visual-divider: #dadada,
+    selection-background: $wm-purple-l5,
 
   ),
   dark:(
@@ -63,6 +64,7 @@ $semantic-colors:(
     social-icons: $pure-white,
     title-underline: $wm-purple-d1,
     visual-divider: $wm-purple-d3,
+    selection-background: $wm-purple-l5,
   ),
 );
 
