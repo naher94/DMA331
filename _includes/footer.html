@@ -1,20 +1,21 @@
 <footer class="grid-container">
   <div class="visual-divider"></div>
-  <div class="grid-x align-middle">
-
-    <div class="cell grid-x align-middle medium-auto left-section">
-      <a class="logo cell shrink" href="{{ site.baseurl }}/">
-        {% capture location %}footer{% endcapture %}
-        {% include wm-logo.svg %}
-      </a>
-      <div class="content-area cell shrink">
-        <p class="footer-heading">{{ site.title }}</p>
-        <p>Duquesne University</p>
+  <div class="grid-x align-middle align-center">
+    <div class="cell small-12 medium-8 grid-x">
+      <div class="cell grid-x align-middle medium-auto left-section">
+        <a class="logo cell shrink" href="{{ site.baseurl }}/">
+          {% capture location %}footer{% endcapture %}
+          {% include wm-logo.svg %}
+        </a>
+        <div class="content-area cell shrink">
+          <p class="footer-heading">{{ site.title }}</p>
+          <p>Duquesne University</p>
+        </div>
       </div>
-    </div>
 
-    <div class="cell medium-shrink right-section">
-      <a href="#" class="social"><i class="fab fa-slack"></i></a>
+      <div class="cell medium-shrink right-section">
+        <a href="#" class="social"><i class="fab fa-slack"></i></a>
+      </div>
     </div>
 
   </div>
