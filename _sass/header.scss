@@ -1,0 +1,23 @@
+//******* Header Styling
+
+header{
+  color: $pure-white;
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
+.logo{
+  #wm-logo-header{
+    height: 50px;
+    transition: $sprint;
+    &:hover{
+      animation: boing 300ms ease-out;
+      path{
+        fill: $wm-purple;
+      }
+    }
+    path{
+      fill:$pure-black; //Changes the color of my logo inline
+    }
+  }
+}

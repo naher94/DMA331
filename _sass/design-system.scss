@@ -53,97 +53,6 @@ p{
   }
 }
 
-ul {
-  padding-left: 5em;
-  padding-right: 5em;
-  @include breakpoint(small only) {
-    padding-left: 0.5em;
-    padding-right: 0.5em;
-  }
-}
-
-.content-wrapper{
-  padding-top: 3em;
-  @include breakpoint(small only) {
-    padding-top: 1em;
-  }
-}
-
-.hero{
-  overflow: hidden;
-  position: relative;
-  .hero-image{
-    img{
-      position: relative;
-    }
-  }
-}
-
-.hero-background-image{
-  position: relative;
-  max-width: 1800px;
-  margin: 0 auto;
-  img{
-    position: absolute;
-    padding-left: 2em;
-    padding-right: 2em;
-    @include breakpoint(small only) {
-      padding-left: 0.5em;
-      padding-right: 0.5em;
-    }
-  }
-}
-
-.date-stamp{
-  font-size: 1.6em;
-  margin-top: 0;
-  font-weight: $zilla-regular;
-  font-family: $zilla;
-  margin-bottom: 0;
-  padding: 0;
-}
-
-.content-button {
-  width: 100%;
-  font-size: 1.5em;
-  color: $pure-white;
-  padding: 1em;
-  text-align: center;
-  border-radius: $pill-radius;
-  transition: $run;
-}
-
-.post-callout{ //should be renamed post call out large
-  margin: 2rem 0;
-  font-size: 2.5em;
-  padding-left: 0.5em;
-  padding-right: 0.5em;
-  line-height: 1.3em;
-}
-
-.post-callout-medium{
-  margin: 2rem 0;
-  font-size: 2em;
-  padding-left: 2.5em;
-  padding-right: 2.5em;
-  line-height: 1.3em;
-  font-weight: $lato-bold;
-  font-style: italic;
-  @include breakpoint(small only) {
-    padding-left: 0.25em;
-    padding-right: 0.25em;
-  }
-}
-
-.post-callout-small{
-  margin: 2rem 0;
-  font-size: 1.5em;
-  padding-left: 0.5em;
-  padding-right: 0.5em;
-  line-height: 1.3em;
-}
-
-
 //******* A Tag Underline Expand Styling
 @mixin link-expand {
   position: relative;
@@ -200,7 +109,7 @@ p, li, h3{
   }
 }
 
-//// Use when you want to trigger the over from a different element
+//// Use when you want to trigger the hover from a different element
 @mixin swipe-underline-hover($is-important) {
   @if $is-important {
     background-size: 100% 10px !important;

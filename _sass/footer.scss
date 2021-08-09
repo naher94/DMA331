@@ -1,0 +1,61 @@
+//******* Footer Styling
+footer{
+  margin-top: 2rem;
+  color: semantic-color(text);
+  padding-bottom: 2rem;
+
+  @include breakpoint(small only) {
+    margin-top: 0.5em;
+    padding-bottom: 4rem;
+  }
+
+  .logo{
+    #wm-logo-footer{
+      height: 50px;
+      transition: $sprint;
+      &:hover{
+        animation: boing 300ms ease-out;
+        path{
+          fill: $wm-purple;
+        }
+      }
+      path{
+        fill:$pure-black; //Changes the color of my logo inline
+      }
+    }
+  }
+}
+
+.social {
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  font-size: 2em;
+  color: inherit;
+  @include breakpoint(small only) {
+    font-size: 3em;
+    padding-left: 0.25rem;
+    padding-right: 0.25rem;
+  }
+  &:hover, &:focus{
+    .fab, .fas{
+      animation: boing 300ms ease-out;
+    }
+  }
+}
+
+.logo-footer-container{
+  text-align: right;
+  .logo-footer{
+    #rehan-logo-footer{
+      height: 3rem;
+      margin-top: 0.5rem;
+      transition: $sprint;
+      &:hover{
+        transform: scale(1.1);
+      }
+      g{
+        fill: semantic-color(footer-logo);
+      }
+    }
+  }
+}

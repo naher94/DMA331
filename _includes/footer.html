@@ -1,22 +1,19 @@
-<footer class="site-footer">
+<footer class="grid-container">
+  <div class="grid-x">
 
-  <div class="wrapper">
+    <div class="cell">
+      <a class="logo" href="{{ site.baseurl }}/">
+        {% capture location %}footer{% endcapture %}
+        {% include wm-logo.svg %}
+      </a>
 
-    <h2 class="footer-heading">{{ site.title }}</h2>
+      <p class="footer-heading">{{ site.title }}</p>
+      <!-- text -->
+    </div>
 
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
-      </div>
+    <div class="cell">
+      <!-- slack logo -->
     </div>
 
   </div>
-
 </footer>
