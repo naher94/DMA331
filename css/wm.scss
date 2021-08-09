@@ -107,7 +107,7 @@ iframe { //this should probs be aspect ratio // TODO Gissue #385
           line-height: 1.1;
         }
         a{
-          @include swipe-underline(semantic-color(title-underline),true);
+          @include swipe-underline(semantic-color(title-underline),true,0.4em);
           text-decoration: none;
           color: semantic-color(text);
           &:hover{
@@ -148,7 +148,16 @@ iframe { //this should probs be aspect ratio // TODO Gissue #385
     }
     a{
       color: semantic-color(text);
-      @include swipe-underline(semantic-color(title-underline),true);
+      @include swipe-underline(semantic-color(title-underline),true,0.4em);
+      &:hover{
+        i{
+          margin-inline-start: 0.25em;
+        }
+      }
+      i{
+        font-size: 0.75em;
+        transition: $sprint;
+      }
     }
   }
 }

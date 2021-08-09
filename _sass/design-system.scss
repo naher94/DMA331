@@ -100,16 +100,16 @@ p, li{
 
 
 //******* End of A Tag Underline Expand Styling
-@mixin swipe-underline($color,$inline-hover) {
+@mixin swipe-underline($color,$inline-hover,$height) {
   display: inline;
   background: linear-gradient($color, $color);
   background-position: 0% 100%;
   background-repeat: no-repeat;
-  background-size: 0% 20px; 
+  background-size: 0% $height; 
   transition: background-size .3s;
   @if $inline-hover {
     &:hover{
-      background-size: 100% 20px;
+      background-size: 100% $height;
     }
   }
 }
