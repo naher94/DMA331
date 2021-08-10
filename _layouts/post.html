@@ -10,6 +10,14 @@ layout: default
 
   <section class="post-content" itemprop="articleBody">
     {{ content }}
+
+    {% if page.collection == 'classes' %}
+      {% for assignment in site.assignments %}
+        {% if assignment.date == page.date %}
+          {% include assignment-callout.html %}
+        {% endif %}
+      {% endfor %}
+    {% endif %}
   </section>
 
 </article>

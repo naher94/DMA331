@@ -145,7 +145,6 @@ iframe { //this should probs be aspect ratio // TODO Gissue #385
         font-size: 3rem;
         margin-block-start: -1rem;
         @include breakpoint(small only) {
-          // font-size: 2rem;
           margin-block-start: -1rem;
         }
       }
@@ -224,6 +223,11 @@ article{
     padding-left: 1rem;
     padding-right: 1rem;
   }
+  h2{
+    font-size: 2rem;
+    margin-block-start: 2rem;
+    font-weight: $montserrat-bold;
+  }
   .post-meta{
     color: semantic-color(text);
     padding: 0;
@@ -234,6 +238,33 @@ article{
     p{
       padding-left: 0;
       padding-right: 0;
+    }
+  }
+}
+
+.assignment-callout{
+  padding: 2rem;
+  border-radius: $tile-radius-medium;
+  background-color: semantic-color(card-background);
+  font-family: $montserrat;
+  margin-block-start: 4rem;
+  p{
+    padding: 0;
+    margin: 0;
+  }
+  a{
+    font-size: 2rem;
+    color: semantic-color(text);
+    font-weight: $montserrat-bold;
+    @include swipe-underline(semantic-color(title-underline),true,0.4em);
+    &:hover{
+      i{
+        margin-inline-start: 0.25em;
+      }
+    }
+    i{
+      font-size: 0.75em;
+      transition: $sprint;
     }
   }
 }

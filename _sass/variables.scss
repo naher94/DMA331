@@ -53,6 +53,7 @@ $semantic-colors:(
     title-underline: $wm-purple-l5,
     visual-divider: #dadada,
     selection-background: $wm-purple-l5,
+    card-background: $wm-purple-l7,
 
   ),
   dark:(
@@ -65,8 +66,11 @@ $semantic-colors:(
     title-underline: $wm-purple-d1,
     visual-divider: $wm-purple-d3,
     selection-background: $wm-purple-l5,
+    card-background: $wm-purple-d5,
   ),
 );
+
+// TODO A Tag in Dark mode
 
 //Helper function to build CSS colors
 @function compose-color($color-key) {
