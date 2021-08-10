@@ -59,7 +59,7 @@ $semantic-colors:(
   dark:(
     text: $pure-white,
     text-inverted: $pure-black,
-    link: $wm-purple,
+    link: $wm-purple-l2,
     shadow: rgba($wm-purple-d9,0.75),
     logo: $pure-white,
     social-icons: $pure-white,
@@ -69,8 +69,6 @@ $semantic-colors:(
     card-background: $wm-purple-d5,
   ),
 );
-
-// TODO A Tag in Dark mode
 
 //Helper function to build CSS colors
 @function compose-color($color-key) {
