@@ -11,6 +11,7 @@ Eventually, you do plan to have dinosaurs on your dinosaur tour, right? You know
 * Research / Discovery
   * Research methods
   * Workflow diagrams
+  * https://www.luma-institute.com/about-luma/luma-system-explore-methods/
 * Ideation
 * Iteration (Design Crit)
 * User testing
