@@ -5,7 +5,7 @@ footer{
   padding-block-end: 2rem;
 
   @include breakpoint(small only) {
-    margin-top: 0.5em;
+    margin-block-start: 3rem;
     padding-bottom: 4rem;
   }
 
