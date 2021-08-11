@@ -15,3 +15,6 @@ Document in Figma a UX audit of the following:
 	Mobile web vs. native mobile
 * https://twitter.com/home
 	Mobile web vs. native mobile
+
+* Audit of existing applications
+  * Heuristics evaluation
