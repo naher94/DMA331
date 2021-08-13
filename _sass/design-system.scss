@@ -79,6 +79,23 @@ a{
 }
 
 //******* A Tag Underline Expand Styling
+@mixin link-expand-2 {
+  background-image: linear-gradient(120deg, semantic-color(link) 0%, semantic-color(link) 100%);
+  background-repeat: no-repeat;
+  background-size: 100% 0.1em;
+  background-position: 0 100%;
+  // transition: background-size 0.2s ease-in;
+  transition: $run;
+
+  padding: 0 1px;
+
+  &:hover {
+    background-size: 100% 100%;
+    // transition: background-size 0.2s ease-in;
+    color: $pure-white;
+  }
+}
+
 @mixin link-expand {
   position: relative;
   text-decoration: none;
@@ -111,7 +128,8 @@ a{
 
 p, li{
   a {
-    @include link-expand();
+    // @include link-expand();
+    @include link-expand-2();
   }
 }
 
