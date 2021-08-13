@@ -9,6 +9,12 @@ Eventually, you do plan to have dinosaurs on your dinosaur tour, right? You know
 * Internationalization / neutralization
 * The importance of content
 
+
+https://twitter.com/DougCollinsUX/status/1425979374654787584?s=20
+
+https://twitter.com/PavelASamsonov/status/1412390607331471364?s=20
+
+
 <div class="grid-x cell grid-margin-x">
   <div class="cell medium-6">
     <blockquote class="twitter-tweet"><p lang="en" dir="ltr">There&#39;s a famous story that Microsoft tested the effectiveness of its error messages by showing one that said, &quot;There&#39;s a $50 bill taped under your seat&quot;, and at the end of the usability test, the fifty was still there. <a href="https://twitter.com/hashtag/PeopleDontRead?src=hash&amp;ref_src=twsrc%5Etfw">#PeopleDontRead</a></p>&mdash; Stacy Holmstedt (@StacyHolmstedt) <a href="https://twitter.com/StacyHolmstedt/status/1424112918371602434?ref_src=twsrc%5Etfw">August 7, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
