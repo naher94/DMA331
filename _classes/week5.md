@@ -8,3 +8,4 @@ Eventually, you do plan to have dinosaurs on your dinosaur tour, right? You know
 
 * Edge cases… long names prototyping
 * https://cantunsee.space
+* https://lawsofux.com

@@ -14,6 +14,7 @@ https://twitter.com/DougCollinsUX/status/1425979374654787584?s=20
 
 https://twitter.com/PavelASamsonov/status/1412390607331471364?s=20
 
+https://www.nngroup.com/topic/writing-web/
 
 <div class="grid-x cell grid-margin-x">
   <div class="cell medium-6">

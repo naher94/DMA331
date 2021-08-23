@@ -11,8 +11,13 @@ Eventually, you do plan to have dinosaurs on your dinosaur tour, right? You know
 * Research / Discovery
   * Research methods
   * Workflow diagrams
+    * https://twitter.com/kareem_carr/status/1411772304531595264?s=21 Teaching user workflow scenario
+
   * https://www.luma-institute.com/about-luma/luma-system-explore-methods/
 * Ideation
 * Iteration (Design Crit)
 * User testing
 * Ship it
+
+Team makeup, org structure, large/small
+* UX maturity

@@ -12,6 +12,7 @@ More recently content and performance consideration have been added to the defin
 * Mobile Web vs Mobile Native considerations
 * Breakpoints
 * Click targets
+* Accessibility
 
 ## Resources
 * [Responsive Logos](http://www.responsivelogos.co.uk)

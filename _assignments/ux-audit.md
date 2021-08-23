@@ -18,3 +18,5 @@ Document in Figma a UX audit of the following:
 
 * Audit of existing applications
   * Heuristics evaluation
+
+https://usabilitygeek.com/ux-audit-beginners-guide/
