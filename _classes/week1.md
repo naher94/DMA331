@@ -5,7 +5,7 @@ date: 2021-08-26
 slides: https://docs.google.com/presentation/d/1NdaYArLmMma4qunsCJKtBrQ5jPVu5Q0zvV_Z_TtbPcs/edit?usp=sharing
 ---
 
-this is placeholder. Eventually, you do plan to have dinosaurs on your dinosaur tour, right? You know what? It is beets. I've crashed into a beet truck. Must go faster. Eventually, you do plan to have dinosaurs on your dinosaur tour, right? Remind me to thank John for a lovely weekend.
+Wikipedia says: "A design is a plan or specification for the construction of an object or system or for the implementation of an activity or process, or the result of that plan or specification in the form of a prototype, product or process."
 
 * More than visual design….
   * UI/UX, Product, Industrial, Visual Design, UX Strategy, UX Research
