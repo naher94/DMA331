@@ -14,4 +14,5 @@ Wikipedia says: "A design is a plan or specification for the construction of an 
 
 ## Readings
 * [Defining Design Generalists](https://airbnb.design/defining-design-generalists/)
-* https://www.theverge.com/2020/9/3/21419630/toaster-human-design-breville-tech-products
+* [All tech products should be designed like my toaster](https://www.theverge.com/2020/9/3/21419630/toaster-human-design-breville-tech-products)
+* [Design Dictionary](https://www.figma.com/dictionary/)
