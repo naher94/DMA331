@@ -14,6 +14,8 @@ More recently content and performance consideration have been added to the defin
 * Click targets
 * Accessibility
 
+<!-- https://medium.com/@Naher94/so-what-is-responsive-design-f2766780296 -->
+
 ## Resources
 * [Responsive Logos](http://www.responsivelogos.co.uk)
 * [Responsively - browser](https://responsively.app)
