@@ -21,7 +21,7 @@ Document in Figma a UX audit of the following sites and scenarios across their d
 	* Exploring the menu and getting their location
 	* Placing an online order
 
-Create a new file for your assignment in the "UX Audit" Figma project following the same format of the [template](https://www.figma.com/file/hgxTbXmVPLuGuUZEnDAAFC/Assignment-Template?node-id=0%3A1)
+Create a new file for your assignment in the "UX Audit" Figma project following a similar format of the [template.](https://www.figma.com/file/hgxTbXmVPLuGuUZEnDAAFC/Assignment-Template?node-id=0%3A1) Also make sure that the file name starts with your name.
 
 <!-- https://usabilitygeek.com/ux-audit-beginners-guide/ -->
 
