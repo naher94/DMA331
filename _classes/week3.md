@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Responsive Design
-date: 2021-09-16
+date: 2021-09-09
 ---
 
 Responsive design or responsive web design is a design approach that looks at making web pages render nicely across a variety of device and window sizes. Think sites that look and feel right on both your phone and a desktop browser.
