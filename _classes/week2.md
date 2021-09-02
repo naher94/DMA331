@@ -2,6 +2,7 @@
 layout: post
 title: The Design Process
 date: 2021-09-02
+slides: https://docs.google.com/presentation/d/1M7WtswvI8vUOMThsFDohuUnMCue76MhrdCW-VieWcNw/edit?usp=sharing
 ---
 
 Processes change team to team and over time, but the general structure remains. Starting with an area to explore, some might call this a problem space or growth area to execution and putting a solution in from of your users. A key concept to a successful process is the willingness to throw away ideas and bring in new ones, a good mix of divergent and convergent concepts.
@@ -30,6 +31,10 @@ Processes change team to team and over time, but the general structure remains. 
 
 Team makeup, org structure, large/small
 * UX maturity -->
+
+## Resources
+* [Human-Centered Design Framework](https://www.designkit.org)
+* [Presumptive Design](https://www.presumptivedesign.com)
 
 ## Readings
 * [5 Stages in the Design Thinking Process](https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process)
