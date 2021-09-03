@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Responsify!
-date: 2021-09-23
+date: 2021-09-16
 ---
 
 Based on comments from your audit and other best practices such as the 10 usability heuritics design the following:

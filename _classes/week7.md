@@ -1,8 +1,7 @@
 ---
 layout: post
-title: 📚 No Class
-date: 2021-10-14
-more: false
+title: Guest Lecture + Design Crit
+date: 2021-10-07
 ---
 
-Best of luck on all your midterms! Look forward to reviewing your projects.
+Eventually, you do plan to have dinosaurs on your dinosaur tour, right? You know what? It is beets. I've crashed into a beet truck. Must go faster. Eventually, you do plan to have dinosaurs on your dinosaur tour, right? Remind me to thank John for a lovely weekend.
