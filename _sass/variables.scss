@@ -54,7 +54,10 @@ $semantic-colors:(
     visual-divider: #dadada,
     selection-background: $wm-purple-l5,
     card-background: $wm-purple-l7,
-
+    table-body: $pure-white,
+    table-row-even: #dadada,
+    table-header: #f8f8f8,
+    table-border: #f1f1f1,
   ),
   dark:(
     text: $pure-white,
@@ -67,6 +70,10 @@ $semantic-colors:(
     visual-divider: $wm-purple-d3,
     selection-background: $wm-purple-l5,
     card-background: $wm-purple-d5,
+    table-body: $wm-purple-d7,
+    table-row-even: $wm-purple-d5,
+    table-header: $wm-purple-d8,
+    table-border: $wm-purple-d4,
   ),
 );
 

@@ -265,3 +265,20 @@ article{
     }
   }
 }
+
+tbody{
+  background-color: semantic-color(table-body);
+}
+
+tbody tr:nth-child(even){
+  background-color: semantic-color(table-row-even);
+}
+
+thead{
+  color: semantic-color(text);
+  background-color: semantic-color(table-header);
+}
+
+tbody, thead, tfooter{
+  border: 1px solid semantic-color(table-border);
+}
