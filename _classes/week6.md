@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ---------------
+title: Data Viz
 date: 2021-09-30
 ---
 
