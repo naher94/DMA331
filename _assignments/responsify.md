@@ -4,30 +4,22 @@ title: Responsify!
 date: 2021-09-23
 ---
 
-Based on comments from your audit and other best practices design the following as responsive experiences:
+Based on comments from your audit and other best practices re-design the [Noodlehead](http://noodleheadpgh.com) site. Think about mobile users and desktop users, specific user workflows such as exploring the menu and getting their location and placing an online order.
 
+Show the process through comments, questions, screenshots, inspiration, doodles etc. If you need help with picking a method feel free to leverage the [Human-Centered Design Handbook](https://www.designkit.org/methods)
 
-Show the process you went through, through comments screen shots inspiration etc.
-
-Document in Figma a Responsive redesign of the following sites based on the comments from the UX Audit:
-* [Weather.gov](https://www.weather.gov)
-	* Responsive home page
-* [Royal Mansour](https://www.royalmansour.com/en/)
-	* ________________
-* [Noodlehead](http://noodleheadpgh.com)
-	* Exploring the menu and getting their location
-	* Placing an online order
+Document this assignment in Figma with 1 page for the final design proposal and 1 for all your working thoughts and ideas.
 
 ## Grading Rubric
 
-This assignment will account for 60 points. Split evenly among the applications listed above and the criteria listed below. Where each application accounts for 20 points.
+This assignment will account for 60 points. Looking at both your process to get to your final result and the final design proposal.
 
-| | Usability Heuristics | Mental Modeling / Workflow |
+| | Process | Design Proposal |
 | --- | ----------- | ---- |
 | | 40 points | 20 points |
-| 100% | Notes several instances of each heuristics in both mobile and desktop | Notes detailed user pain points and positive steps in the workflow and user's mindset for the respective scenarios |
-| 80% | Notes several instances of each heuristic across mobile and desktop | Notes detailed user pain points and positive steps in the workflow or user's mindset for the respective scenarios |
-| 60% | Notes 1 instance of each heuristic | Notes pain points and positive steps in the workflow or the user's mindset |
-| 40% | Notes at least half of the heuristics | Notes some pain points and positive steps in the workflow or the user's mindset |
-| 20% | Notes less then half of the heuristics | Notes surface level pain points or positive steps only |
+| 100% | Cleary details out thought process and problems that are being explored and resolved | Clearly demonstrates possible solutions to problem areas both functional and visual  |
+| 80% | Showcases process and line of thinking using several different methods | Demonstrates understanding and solutions to uncovered problems |
+| 60% | Showcases some process and line of thinking | Demonstrates some changes functional and visual from the current |
+| 40% | Articulates minimal process with no reference to your line of thinking | Demonstrates minimal functional or visual from the current |
+| 20% | Minor process articulated | Only minor visual changes are demonstrated |
 | 0% | No Evidence | No Evidence |
