@@ -2,6 +2,7 @@
 layout: post
 title: Design Systems
 date: 2021-09-16
+slides: https://docs.google.com/presentation/d/1lPI_z_iZifN7_ty-FMDVusNJX2YjUfq-ZPtZXjXUvks/edit?usp=sharing
 ---
 
 A design system is a set of rules, templates and components which aims to help accelerate the designing and building of software products. A design system is a set of standards to manage design at scale by reducing redundancy while creating a shared language and visual consistency across different all different channels.
