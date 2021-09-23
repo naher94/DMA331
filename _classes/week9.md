@@ -8,3 +8,7 @@ Eventually, you do plan to have dinosaurs on your dinosaur tour, right? You know
 
 * Interaction detailing
 * Motion
+
+<!-- https://www.nngroup.com/articles/animation-purpose-ux/ -->
+
+<!-- https://dribbble.com/shots/5928582-Calendar-Icon-Animation-in-Outlook -->
