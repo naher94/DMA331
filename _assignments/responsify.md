@@ -14,12 +14,10 @@ Document this assignment in Figma with 1 page for the final design proposal and 
 
 This assignment will account for 60 points. Looking at both your process to get to your final result and the final design proposal.
 
+*To better account for the changing needs of the course this assignment's rubric has been simplified as of 09/25/2021.*
+
 | | Process | Design Proposal |
 | --- | ----------- | ---- |
 | | 40 points | 20 points |
-| 100% | Cleary details out thought process and problems that are being explored and resolved | Clearly demonstrates possible solutions to problem areas both functional and visual  |
-| 80% | Showcases process and line of thinking using several different methods | Demonstrates understanding and solutions to uncovered problems |
-| 60% | Showcases some process and line of thinking | Demonstrates some changes functional and visual from the current |
-| 40% | Articulates minimal process with no reference to your line of thinking | Demonstrates minimal functional or visual from the current |
-| 20% | Minor process articulated | Only minor visual changes are demonstrated |
+| 100% | Process work shown in any of a variety of ways, written, sketches, inspiration of other products etc. | Proposal covers all pages of the site, home and ordering |
 | 0% | No Evidence | No Evidence |
