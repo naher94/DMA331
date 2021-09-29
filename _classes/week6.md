@@ -2,9 +2,10 @@
 layout: post
 title: Theory & Execution
 date: 2021-09-30
+slides:
 ---
 
-If have spend the last several weeks talking about design theory, principles, frameworks and methodology. Now lets get deep into how we apply these principles and the theory of design to our design process.
+We have spend the last several weeks talking about design theory, principles, frameworks and methodology. Now lets get deep into how we apply these principles and the theory of design to our design process.
 
 <!-- * Understanding the problem you want to solve
 * Loads of Research
@@ -41,7 +42,7 @@ If have spend the last several weeks talking about design theory, principles, fr
 By Wednesday the 22nd at 11:59pm (the day before class) post a several paragraph response to the reading materials below taking into consideration the questions listed as well. The assignment should be submitted to the #general channel on Slack.
 
 ## Critique
-By the start of class go through your classmates Responsify assignments in Figma and leave them constructive feedback for their iteration process. Provide at least 3 [comments](https://help.figma.com/hc/en-us/articles/360041068574-Add-comments-to-files) per assignment.
+By the start of class go through your classmates Responsify assignments in Figma and leave them constructive feedback for their iteration process. Provide at least 3 [comments](https://help.figma.com/hc/en-us/articles/360041068574-Add-comments-to-files) per assignment. This work will be recorded as part of [Responsify Part 2]({% link _assignments/responsify-p2.md %})
 
 
 ## "Readings"
