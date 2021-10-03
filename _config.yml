@@ -10,7 +10,7 @@ title: Web & Mobile Design - DMA 331
 description: > # this means to ignore newlines until "baseurl:"
   Students use principles of visual and interaction design to create high-fidelity web and mobile application prototypes. The course covers wireframing, layout, typography, responsive media and design, animation, mobile-first design, frameworks. Students practice skills and principles needed to create front-end web and application designs.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://dma331.rehanbutt.com" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
