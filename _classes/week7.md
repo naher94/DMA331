@@ -2,6 +2,7 @@
 layout: post
 title: The Role of Storytelling
 date: 2021-10-07
+slides: https://docs.google.com/presentation/d/10RGv0M78CadVZXnzK_UUYD7I3-qiY9aDyhcOMTsshGE/edit?usp=sharing
 ---
 
 The role of storytelling and presenting your work is key to many industries, including ours. Storytelling helps you audience connect with the impact of what you are sharing and hopefully have them continue to think of it even after the presentation. Creating a compelling narrative with clear takeaways in many ways can make or break your product, regardless of how great it is.

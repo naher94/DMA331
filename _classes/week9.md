@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Prototyping & Interactions
+title: Guest Lecture + Design Crit
 date: 2021-10-21
 ---
 

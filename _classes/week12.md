@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 🃏 Wild Card
+title: Design + Dev Collaboration
 date: 2021-11-11
 ---
 
