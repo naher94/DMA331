@@ -26,7 +26,7 @@ The application should include at minimum a home page, a movie page where you ca
 
 ## Milestone 1: Planning & Research
 **Due: Oct 12th.** This first milestone will help you set up the scope of work and step into the larger project/design process. Your project plan will callout all pages you would like to include include in the design to create the full experience. This milestone should include:
-* **A site map** of your project, visualizing the information architecture. (10 points) [(site map reference)]((https://xd.adobe.com/ideas/process/information-architecture/sitemap-and-information-architecture/))
+* **A site map** of your project, visualizing the information architecture. (10 points) [(site map reference)](https://xd.adobe.com/ideas/process/information-architecture/sitemap-and-information-architecture/)
 * **Research** in the form of commentary on competitors, such as noting the usability heuristics and user's mental model. (20 points)
 * **Design inspiration** from site like [Dribbble](https://dribbble.com) or other products in the world, with documented comments and question about the work. (20 points)
 
