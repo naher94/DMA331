@@ -10,6 +10,14 @@ Eventually, you do plan to have dinosaurs on your dinosaur tour, right? You know
 * Internationalization / neutralization
 * The importance of content
 
+<!-- Is your content the right content?
+Are you giving users what they want or need?
+This isn’t limited to text/video
+The medium is the message*
+McLuhan understood "medium" in a broad sense. He identified the light bulb as a clear demonstration of the concept of "the medium is the message". A light bulb does not have content in the way that a newspaper has articles or a television has programs, yet it is a medium that has a social effect; that is, a light bulb enables people to create spaces during nighttime that would otherwise be enveloped by darkness. He describes the light bulb as a medium without any content. McLuhan states that "a light bulb creates an environment by its mere presence."
+source: Wikipedia: https://en.wikipedia.org/wiki/The_medium_is_the_message -->
+
+
 
 https://twitter.com/DougCollinsUX/status/1425979374654787584?s=20
 
