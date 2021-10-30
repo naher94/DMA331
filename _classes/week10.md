@@ -12,6 +12,7 @@ Prototype can help you answer meaningful user questions throughout the design pr
 * [Material Design Motion](https://material.io/design/motion/understanding-motion.html)
 * [The Role of Animation and Motion in UX](https://www.nngroup.com/articles/animation-purpose-ux/)
 * [5 steps for including motion design in your system](https://www.designsystems.com/5-steps-for-including-motion-design-in-your-system/)
+* [Guide to prototyping in Figma](https://help.figma.com/hc/en-us/articles/360040314193-Guide-to-prototyping-in-Figma)
 
 ## Examples & Inspiration
 * [Outlook Calendar Icon](https://dribbble.com/shots/5928582-Calendar-Icon-Animation-in-Outlook)
