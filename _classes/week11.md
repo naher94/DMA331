@@ -5,10 +5,13 @@ date: 2021-11-04
 ---
 
 
-Eventually, you do plan to have dinosaurs on your dinosaur tour, right? You know what? It is beets. I've crashed into a beet truck. Must go faster. Eventually, you do plan to have dinosaurs on your dinosaur tour, right? Remind me to thank John for a lovely weekend.
+Content is king, a phrase we have all heard before but what does that mean when designing interfaces? How does content play a role in the design of an interface?
 
-* Internationalization / neutralization
-* The importance of content
+## Resources
+* [Seven principles for effective content design](https://blog.prototypr.io/seven-principles-for-effective-content-design-8b3f82840d3b)
+* [Writing for the Web](https://www.nngroup.com/topic/writing-web/)
+* [Principles and Techniques for Effective Localization](https://material.io/blog/localization-principles-techniques)
+* [A Localization cheatsheet: Designing for international audiences](https://medium.com/@tnishantha/a-localization-cheatsheet-designing-for-international-audiences-b018e2800291)
 
 <!-- Is your content the right content?
 Are you giving users what they want or need?
@@ -17,15 +20,10 @@ The medium is the message*
 McLuhan understood "medium" in a broad sense. He identified the light bulb as a clear demonstration of the concept of "the medium is the message". A light bulb does not have content in the way that a newspaper has articles or a television has programs, yet it is a medium that has a social effect; that is, a light bulb enables people to create spaces during nighttime that would otherwise be enveloped by darkness. He describes the light bulb as a medium without any content. McLuhan states that "a light bulb creates an environment by its mere presence."
 source: Wikipedia: https://en.wikipedia.org/wiki/The_medium_is_the_message -->
 
-
-
-https://twitter.com/DougCollinsUX/status/1425979374654787584?s=20
-
-https://twitter.com/PavelASamsonov/status/1412390607331471364?s=20
-
-https://www.nngroup.com/topic/writing-web/
-
 <div class="grid-x cell grid-margin-x">
+  <div class="cell">
+    <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Never trust users to read the fine print. <a href="https://twitter.com/hashtag/ux?src=hash&amp;ref_src=twsrc%5Etfw">#ux</a> <a href="https://twitter.com/hashtag/design?src=hash&amp;ref_src=twsrc%5Etfw">#design</a> <a href="https://t.co/nYrxmzlLdb">pic.twitter.com/nYrxmzlLdb</a></p>&mdash; Doug Collins (@DougCollinsUX) <a href="https://twitter.com/DougCollinsUX/status/1425979374654787584?ref_src=twsrc%5Etfw">August 13, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </div>
   <div class="cell medium-6">
     <blockquote class="twitter-tweet"><p lang="en" dir="ltr">There&#39;s a famous story that Microsoft tested the effectiveness of its error messages by showing one that said, &quot;There&#39;s a $50 bill taped under your seat&quot;, and at the end of the usability test, the fifty was still there. <a href="https://twitter.com/hashtag/PeopleDontRead?src=hash&amp;ref_src=twsrc%5Etfw">#PeopleDontRead</a></p>&mdash; Stacy Holmstedt (@StacyHolmstedt) <a href="https://twitter.com/StacyHolmstedt/status/1424112918371602434?ref_src=twsrc%5Etfw">August 7, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   </div>
