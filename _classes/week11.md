@@ -8,6 +8,8 @@ slides: https://docs.google.com/presentation/d/1FFdiAiJuGfYAU7OqwjBmpFB829Nk-NFD
 
 Content is king, a phrase we have all heard before but what does that mean when designing interfaces? How does content play a role in the design of an interface?
 
+<!-- https://vimeo.com/518153503 -->
+
 ## Resources
 * [Seven principles for effective content design](https://blog.prototypr.io/seven-principles-for-effective-content-design-8b3f82840d3b)
 * [Writing for the Web](https://www.nngroup.com/topic/writing-web/)
