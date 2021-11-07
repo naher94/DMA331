@@ -23,6 +23,7 @@ By Wednesday the 10th at 11:59pm (the day before class) post a response to the r
 
 ### Materials
 * [5 Principles for Better Designer-Developer Collaboration](https://xd.adobe.com/ideas/perspectives/leadership-insights/principles-designer-developer-collaboration/)
+* [Yes, Design Systems Do Improve Developer Efficiency and Design Consistency](https://sparkbox.com/foundry/design_system_roi_impact_of_design_systems_business_value_carbon_design_system)
 * [Creating a Collaborative Environment -- Designer vs. Developer #1](https://www.youtube.com/watch?v=8T94qu8IWWk)
 * [How Design Skills Improve Developers -- Designer vs. Developer #4](https://www.youtube.com/watch?v=xxfb-S9nDsQ&list=PLNYkxOF6rcIC60856GnLEV5GQXMxc9ByJ&index=23)
 * [The Design Responsibility of Developers -- Designer vs. Developer #5](https://www.youtube.com/watch?v=ijJcFAFjXuQ&list=PLNYkxOF6rcIC60856GnLEV5GQXMxc9ByJ&index=22)
