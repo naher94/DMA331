@@ -30,6 +30,7 @@ Feel free to leverage existing resources available in the Figma community:
 * [iOS 15 UI Kit](https://www.figma.com/community/file/984106517828363349/iOS-15-UI-Kit-for-Figma)
 * [Bloo Lo-Fi Wireframe Kit](https://www.figma.com/community/file/960058803048298115/Bloo-Lo-Fi-Wireframe-Kit)
 
+The results of this work will be a series of designs and workflows that share the story you want to tell through the travel journey, with the goal of exploring mobile and desktop experiences as the base.
 
 ## Milestone 1: Planning & Research
 **Due: Nov 30th** This first milestone will help you set up the scope of work and step into the larger project/design process. Your project plan will callout all pages you would like to include include in the design to create the full experience. This milestone should include:
