@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Guest Lecture + Design Crit
+title: 🃏 Wildcard
 date: 2021-11-18
 ---
 
-Eventually, you do plan to have dinosaurs on your dinosaur tour, right? You know what? It is beets. I've crashed into a beet truck. Must go faster. Eventually, you do plan to have dinosaurs on your dinosaur tour, right? Remind me to thank John for a lovely weekend.
+Today's class will be a wildcard. Talking through open question and exploring topics of interest that you all have had through the course.
