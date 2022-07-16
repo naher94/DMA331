@@ -23,7 +23,7 @@ Document this project in Figma with 1 [page](https://help.figma.com/hc/en-us/art
 
 This project should cross both desktop web and mobile experiences but can go beyond that if you would like to explore other form factors such as smart watches or smart displays!
 
-This Project also has [Figma template](https://www.figma.com/file/CRCxaNsZJ6q77zJ3C6HqCv/?node-id=0%3A1) to help you get started.
+This Project also has [Figma template](https://www.figma.com/file/AZfhyPfF3GFYW9PISPuhFo/DMA331---Final-Project-Template?node-id=0%3A1)([.fig](/documents/final-project-template.fig)) to help you get started.
 
 Feel free to leverage existing resources available in the Figma community:
 * [Material Design UI Kit](https://www.figma.com/community/file/778763161265841481/Material-Baseline-Design-Kit)
@@ -36,7 +36,7 @@ The results of this work will be a series of designs and workflows that share th
 **Due: Nov 30th** This first milestone will help you set up the scope of work and step into the larger project/design process. Your project plan will callout all pages you would like to include include in the design to create the full experience. This milestone should include:
 <!-- What mode of transportation do you want to design for?
 <!-- story board the full experience -->
-* **Experience Timeline** Think about how the experience changes over time. What does the interaction look like 2 weeks before vs the day of and how does the technology adjust to accommodate? [Template](https://www.figma.com/file/CRCxaNsZJ6q77zJ3C6HqCv/Final-Project-Template?node-id=2%3A2) (30 points)
+* **Experience Timeline** Think about how the experience changes over time. What does the interaction look like 2 weeks before vs the day of and how does the technology adjust to accommodate? [Template](https://www.figma.com/file/AZfhyPfF3GFYW9PISPuhFo/DMA331---Final-Project-Template?node-id=0%3A1)([.fig](/documents/final-project-template.fig)) (30 points)
 * **Research** in the form of commentary on existing travel experiences, such as noting the usability heuristics and user's mental model. (20 points)
 * **Design inspiration** from site like [Dribbble](https://dribbble.com) or other products in the world speculative or real products, with documented comments and question about the work. (20 points)
 * **Lots of sketches** on different idea, thinking about the divergent phase of the process. Explore many different ideas across all the pages you will be designing. (20 points)
