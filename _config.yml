@@ -19,11 +19,3 @@ sass:
   style: compressed
 
 future: true
-
-collections:
-  assignments:
-    output: true
-    permalink: /assignments/:path
-  classes:
-    output: true
-    permalink: /classes/:path
